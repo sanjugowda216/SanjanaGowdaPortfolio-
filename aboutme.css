@@ -37,3 +37,15 @@
   .main {
     margin-right: 120px; /* Adjust margin to match sidenav width */
   }
+
+  .main {
+    margin-left:10%;
+    margin-right: 30%;
+  }
+  .main h2{
+    font-size:30px;
+  }
+
+  .main h1{
+    font-size:40px;
+  }

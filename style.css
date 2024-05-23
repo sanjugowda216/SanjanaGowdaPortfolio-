@@ -16,7 +16,6 @@ body {
     flex-direction: column; /* Display links vertically */
     justify-content: center; /* Center vertically */
     align-items: center;
-
   }
   
   .sidenav a {
@@ -52,7 +51,7 @@ body {
     background-image: url('blue.jpg'); /* Specify your background image */
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    height: 110vh;
   }
   
   .content {
@@ -106,9 +105,9 @@ body {
     margin-left:40%;
     background-color:#23364b;
     color:white;
-    padding: 7px;
+    padding: 10px;
     text-align: center;
-    font-size:14px;
+    font-size:16px;
 
   }
 
